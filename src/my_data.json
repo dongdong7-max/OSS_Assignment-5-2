@@ -1,0 +1,114 @@
+[
+{
+"createdAt":"2025-11-15T00:04:07.323Z",
+"name":"GaJun Kim",
+"age":"23",
+"student_id":"22200000",
+"student_grade":"A",
+"id":"1"
+},
+{
+"createdAt":"2025-11-14T16:16:03.016Z",
+"name":"NaJun Kim",
+"age":"23",
+"student_id":"22200001",
+"student_grade":"A",
+"id":"2"
+},
+{
+"createdAt":"2025-11-14T22:09:41.654Z",
+"name":"DaJun Kim",
+"age":"23",
+"student_id":"22200002",
+"student_grade":"B",
+"id":"3"
+},
+{
+"createdAt":"2025-11-15T06:49:37.558Z",
+"name":"RaJun Kim",
+"age":"23",
+"student_id":"22200003",
+"student_grade":"B",
+"id":"4"
+},
+{
+"createdAt":"2025-11-14T19:17:37.159Z",
+"name":"MaJun Kim",
+"age":"23",
+"student_id":"22200004",
+"student_grade":"D",
+"id":"5"
+},
+{
+"createdAt":"2025-11-14T23:45:04.133Z",
+"name":"BaJun Kim",
+"age":"23",
+"student_id":"22200005",
+"student_grade":"A",
+"id":"6"
+},
+{
+"createdAt":"2025-11-15T10:40:57.489Z",
+"name":"AaJun Kim",
+"age":"23",
+"student_id":"22200007",
+"student_grade":"D",
+"id":"8"
+},
+{
+"createdAt":"2025-11-14T19:18:46.528Z",
+"name":"JaJun Kim",
+"age":"23",
+"student_id":"22200008",
+"student_grade":"C",
+"id":"9"
+},
+{
+"createdAt":"2025-11-14T12:51:41.732Z",
+"name":"Chajun Kim",
+"age":"23",
+"student_id":"22200009",
+"student_grade":"A",
+"id":"10"
+},
+{
+"createdAt":"2025-11-15T02:44:41.131Z",
+"name":"Hajun Kim",
+"age":"23",
+"student_id":"22200217",
+"student_grade":"A",
+"id":"11"
+},
+{
+"createdAt":"2025-11-15T08:56:48.472Z",
+"name":"Kajun Kim",
+"age":"24",
+"student_id":"22200011",
+"student_grade":"A",
+"id":"12"
+},
+{
+"createdAt":"2025-11-15T02:19:05.675Z",
+"name":"Tajun Kim",
+"age":"24",
+"student_id":"22200219",
+"student_grade":"A",
+"id":"13"
+},
+{
+"createdAt":"2025-11-14T16:00:43.037Z",
+"name":"Pajun Kim",
+"age":"23",
+"student_id":"22200219",
+"student_grade":"A",
+"id":"14"
+},
+{
+"createdAt":"2025-11-14T16:05:07.177Z",
+"name":"Kajun Kim",
+"age":"23",
+"student_id":"22200250",
+"student_grade":"A",
+"id":"15"
+}
+]
