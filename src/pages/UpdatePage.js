@@ -68,14 +68,11 @@ function UpdatePage() {
     return (
         <div>
             <h2>학생 정보 수정 (Update)</h2>
-            <div className="alert alert-info">
-                페이지 로딩 후 총 수정 횟수: <strong>{editCount}</strong> 회<br/>
-                (값을 변경하면 서버에 실시간으로 자동 저장됩니다.)
-            </div>
+
 
             <form onSubmit={(e) => e.preventDefault()}>
                 <div className="mb-3">
-                    <label>이름 (자동 포커스):</label>
+                    <label>이름:</label>
                     <input 
                         type="text" 
                         name="name" 
